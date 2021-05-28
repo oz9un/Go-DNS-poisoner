@@ -9,7 +9,7 @@ traffic over port 53.
 DNS Goisoner captures the traffic from a network interface in promiscuous mode, and injects forged
 responses to selected DNS A requests with the goal of poisoning the cache of
 the victim's resolver.
-## Parameters & Usage
+## Parameters & Usage 💬
 
 DNS Goisoner has three parameters and usage for this:
 ```
